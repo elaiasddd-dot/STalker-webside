@@ -78,6 +78,10 @@ nav a:hover{
     padding:40px 20px;
 }
 
+.download a{
+    color: aqua;
+}
+
 .download h2{
     color:#b8d27a;
     margin-bottom:20px;
@@ -88,6 +92,7 @@ nav a:hover{
     padding:40px;
     text-align:center;
     background:#2a2a2a;
+    width: 500px;
 }
 
 footer{
